@@ -8,16 +8,13 @@ As a **penetration tester**, **developer**, and **DevOps enthusiast**, my mantra
 - **Active Directory Security**: Specializing in understanding, exploiting, and securing Active Directory environments, from privilege escalation to domain dominance.
 - **Red Team Operations**: Simulating adversarial attacks to uncover and patch real-world vulnerabilities in corporate environments.
 - **Web Application Security**: Securing both front-end and back-end frameworks like Django and React by finding and closing security gaps.
-- **Cloud Security & DevSecOps**: Integrating security into CI/CD pipelines and automating vulnerability management.
+
 
 ---
 
 ## 🌱 Currently Learning & Exploring:
 - **Advanced Cloud Security**: Expanding knowledge in securing cloud infrastructures across **AWS**, **Azure**, and **GCP**, focusing on IAM policies, cloud storage protection, and workload security.
-- **Kubernetes Security**: Investigating how to secure containerized workloads and clusters, focusing on RBAC, network policies, and container runtime security.
-- **Blockchain Security**: Exploring smart contracts and decentralized apps (DApps) for vulnerabilities, with a focus on **Ethereum** and **Solidity**.
-- **Mobile App Security**: Continuing to improve skills in **Flutter** by implementing secure authentication, encryption, and app hardening techniques.
-- **Zero Trust Architectures**: Researching the principles of Zero Trust and how to implement it in large-scale enterprise environments to eliminate implicit trust in systems.
+
 
 ---
 
