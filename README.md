@@ -47,7 +47,6 @@ As a **penetration tester**, **developer**, and **DevOps enthusiast**, my mantra
 - **Penetration Testing**: Whether it's web apps, networks, or mobile platforms, I enjoy finding the weak points and helping teams improve their security posture.
 - **Security Tool Development**: Let's build tools that make the life of pentesters and developers easier! I'm particularly interested in automating repetitive tasks in offensive security.
 - **DevSecOps**: I’m keen to collaborate on **CI/CD pipelines** that integrate security from day one, ensuring that development and operations teams have a streamlined, secure workflow.
-- **Mobile Application Security**: Interested in collaborating on secure mobile apps where data protection is key, and security vulnerabilities are squashed early in development.
 - **Open Source Security Projects**: Contributing to projects that improve the state of security, whether it's libraries, frameworks, or pentesting tools.
 
 ---
