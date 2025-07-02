@@ -48,11 +48,6 @@ As a **penetration tester**, **developer**, my mantra is simple: **"Code safe, b
 ## 😄 Pronouns:
 He/Him
 
----
-
-## ⚡ Fun Fact:
-Did you know that the infamous **Heartbleed vulnerability** in 2014 could have been prevented with better secure code design? Heartbleed was a severe bug in the OpenSSL cryptographic software library, allowing attackers to read sensitive information directly from a server’s memory, including private keys and passwords. The root cause? A simple bounds-checking issue that led to a buffer over-read, which could have been avoided by implementing stricter input validation and safer memory management practices. This breach is a prime example of why secure coding principles, such as **input validation**, **memory safety**, and **code reviews**, are critical in preventing large-scale vulnerabilities.
-
 
 ---
 
